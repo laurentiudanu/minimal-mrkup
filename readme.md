@@ -7,3 +7,4 @@ A very simple, no grid, html-based (jade and sass files included) framework to h
 * jquery v2.1.4 (js/jq.js)
 * a basic js-based touch device detection (js/functions.js) that will run before any image is rendered inside the DOM
 * basic responsive html file (and the jade source inside the jade folder)
+* Montserrat and Playfair Display fonts from Google are also included in style.css
